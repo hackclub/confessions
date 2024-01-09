@@ -27,6 +27,8 @@ Because Prox provides anonymity and led to conflict, the standards for what can 
 
    This also applies to positive confessions about individuals, which are generally not allowed. For example, complements may make the subject uncomfortable when expressed anonymously. It may also make people feel excluded if they see some people receiving complements, but others not.
 
+   If a confession refers to multiple people, it is targeted if the number of people invoked or reference is (approximately) less than 10.
+
    Exception: Confessions that criticize specific actions taken by or policies of HQ and community staff as part of their role are allowed.
 
 3) The benefits from discussion must outweigh the risk of harm to community members.
