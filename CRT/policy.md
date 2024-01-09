@@ -27,9 +27,11 @@ Because Prox provides anonymity and led to conflict, the standards for what can 
 
    This also applies to positive confessions about individuals, which are generally not allowed. For example, complements may make the subject uncomfortable when expressed anonymously. It may also make people feel excluded if they see some people receiving complements, but others not.
 
+   If a confession refers to multiple people, it is targeted if the number of people invoked or reference is (approximately) less than 10.
+
    Exception: Confessions that criticize specific actions taken by or policies of HQ and community staff as part of their role are allowed.
 
-3) The benefits from discussion must outweigh the risk of harm to community members.
+4) The benefits from discussion must outweigh the risk of harm to community members.
    The desire for anonymity to express a controversial opinion does not, by itself, provide a benefit greater than the risk of harm.
 
    Discussions that may make community members, especially specific individuals or protected classes, feel unwelcome present significant risk of harm to the community at large, and must pass a high bar of potential benefit to the community to be approved.
@@ -40,7 +42,7 @@ Because Prox provides anonymity and led to conflict, the standards for what can 
 
    > I think the reason you think this is because a lot of times, hq confessions come through that are like “oh, xyz sucks so bad i hate it” but there’s no reasoning or explanation given. In the earlier days of Prox, these confessions would be allowed through in the hope of having a discussion, but a lot of times it would devolve into a dumpster fire or just not be productive because…there was no elaboration or basis given, and then we’d have to ask for an elaboration later on and it just wouldn’t work out that much.
 
-4) Confessions should not detract from the value of #confessions as a space for serious and respectful discussion.
+5) Confessions should not detract from the value of #confessions as a space for serious and respectful discussion.
      1) Shit-post confessions (i.e. confessions designed to be funny) are allowed, but by an arbitrary quality standard: does the reviewing confessions team member find it funny enough to be valuable in #confessions? The primary purpose of #confessions is for serious discussion, and to avoid detracting from the channel’s value, we don’t want to crowd out serious discussion with noise. Of course, funny jokes are funny, and we’ll approve them at low quantity.
      2) Confessions that ask questions that would be a better fit for a place like #code  (“Help! Why does Javascript think 0.2 + 0.1 is 0.3000004?“) will be rejected. While we understand the desire for anonymity when asking code questions, especially when you’re first getting started, we have found that you will receive the best help when you ask openly.
 
