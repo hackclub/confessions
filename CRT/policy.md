@@ -71,3 +71,5 @@ Because Prox provides anonymity and led to conflict, the standards for what can 
     5) Please do not express disagreement with a confession review decision in #confessions-meta. Because confessions should not be posted publicly and the community rarely has full context for confessions, extended discussion in public spaces about specific confessions serves to raise the potential for confusion about our decision making process, without providing space to focus on the details.
 
 6) If any OP invokes a protected class, the assumption of good faith should be broken and we should ask for clarification by default and rejections should be used more liberally. This supersedes any mention of HQ or other rule.
+
+7) All confessions deemed fit for #meta contribute meaningfully to the improvement to Hack Club and the community. Statements that are speculative, dismissive, or designed to provoke without offering constructive insights or feedback are strictly prohibited. Confessions sent to #meta must include specific reasoning, context, or proposed solutions to be considered acceptable.
