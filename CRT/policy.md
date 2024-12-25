@@ -72,4 +72,4 @@ Because Prox provides anonymity and led to conflict, the standards for what can 
 
 6) If any OP invokes a protected class, the assumption of good faith should be broken and we should ask for clarification by default and rejections should be used more liberally. This supersedes any mention of HQ or other rule.
 
-7) All confessions deemed fit for #meta contribute meaningfully to the improvement to Hack Club and the community. Statements that are speculative, dismissive, or designed to provoke without offering constructive insights or feedback are strictly prohibited. Confessions sent to #meta must include specific reasoning, context, or proposed solutions to be considered acceptable.
+7) Confessions sent to #meta should aim to foster productive discussions about Hack Club and its community. While speculative or intentionally provocative statements are discouraged, submissions do not necessarily need to offer solutions or direct improvements. The reviewer will evaluate each confession based on its relevance and potential to meaningfully contribute.
