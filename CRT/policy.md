@@ -46,6 +46,8 @@ Because Prox provides anonymity and led to conflict, the standards for what can 
      1) Shit-post confessions (i.e. confessions designed to be funny) are allowed, but by an arbitrary quality standard: does the reviewing confessions team member find it funny enough to be valuable in #confessions? The primary purpose of #confessions is for serious discussion, and to avoid detracting from the channel’s value, we don’t want to crowd out serious discussion with noise. Of course, funny jokes are funny, and we’ll approve them at low quantity.
      2) Confessions that ask questions that would be a better fit for a place like #code  (“Help! Why does Javascript think 0.2 + 0.1 is 0.3000004?“) will be rejected. While we understand the desire for anonymity when asking code questions, especially when you’re first getting started, we have found that you will receive the best help when you ask openly.
 
+5) Confessions should never be Hack Club security reports. These confessions shall be rejected and forwarded to security@hackclub.com. We encourage OPs to instead use a burner email and send to security@hackclub.com themselves in order to facilitate back and forth discussion.
+
 ## When reviewing confessions:
 
 1) Confessions review team members may only accept or reject a confession. The content of the confession must not be edited, except by the original poster.
